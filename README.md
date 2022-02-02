@@ -62,30 +62,13 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 * Cable USB
 * Jumpers
 * LED
-* 2 Resistors
-* Button
-
-</details>
-
-**Instruction**: Turn on and off a LED each time you push a button
-
-## Exercice 4
-
-<details>
-    <summary> 🛠 required Material:</summary>
-
-* Arduino
-* BreadBoard
-* Cable USB
-* Jumpers
-* LED
 * Resistor
 
 </details>
 
 **Instruction**: Make a LED blink every second
 
-## Exercice 5
+## Exercice 4
 
 <details>
     <summary> 🛠 required Material:</summary>
@@ -103,7 +86,8 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 
 <img src="https://thumbs.gfycat.com/CelebratedImpossibleGreatargus-size_restricted.gif" width="200" />
 
-## Exercice 6
+
+## Exercice 5
 
 <details>
     <summary> 🛠 required Material:</summary>
@@ -120,7 +104,8 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 
 **Instruction**: Using the circut of the previous exercise, vary the speed of the back and forth with a potentiometer.
 
-## Exercice 7
+
+## Exercice 6
 
 <details>
     <summary> 🛠 required Material:</summary>
@@ -140,6 +125,24 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 >**Constraints**: The potentiometer and the led must be in two different circuts
 
 >:bulb: Try to learn more about the "PWM" pins
+
+
+## Exercice 7
+
+<details>
+    <summary> 🛠 required Material:</summary>
+
+* Arduino
+* BreadBoard
+* Cable USB
+* Jumpers
+* LED
+* 2 Resistors
+* Button
+
+</details>
+
+**Instruction**: Turn on and off a LED each time you push a button
 
 ## Exercice 8
 
