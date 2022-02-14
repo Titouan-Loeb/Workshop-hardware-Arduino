@@ -125,7 +125,7 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 >**Constraints**: The potentiometer and the led must be in two different circuts
 
 >:bulb: Try to learn more about the "PWM" pins
-
+>:bulb: You may want to select different levels of intensity (0%, 25%, 50%, 75%, 100%)
 
 ## Exercice 7
 
