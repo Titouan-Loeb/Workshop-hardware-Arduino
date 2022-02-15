@@ -125,6 +125,7 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 >**Constraints**: The potentiometer and the led must be in two different circuts
 
 >:bulb: Try to learn more about the "PWM" pins
+
 >:bulb: You may want to select different levels of intensity (0%, 25%, 50%, 75%, 100%)
 
 ## Exercice 7
@@ -137,7 +138,7 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 * Cable USB
 * Jumpers
 * LED
-* 2 Resistors
+* 1 or 2 Resistors
 * Button
 
 </details>
@@ -153,42 +154,7 @@ To carry out this workshop, you need to create an account on [Tinkercad](https:/
 * BreadBoard
 * Cable USB
 * Jumpers
-* LED
-* Resistor
-* Ultrasonic distance sensor
-
-</details>
-
-**Instruction**: Turn on an LED when the distance sensor reads a distance less than 1 metre
-
-## Exercice 9
-
-<details>
-    <summary> 🛠 required Material:</summary>
-
-* Arduino
-* BreadBoard
-* Cable USB
-* Jumpers
-* LED
-* Resistor
-* Ultrasonic distance sensor
-
-</details>
-
-**Instruction**: Make an RGB LED go from red to blue depending on the distance detected by the distance sensor
-
-## Exercice 10
-
-<details>
-    <summary> 🛠 required Material:</summary>
-
-* Arduino
-* BreadBoard
-* Cable USB
-* Jumpers
 * Servo-motor
-* Resistor
 * Piezoelectric sensor
 
 </details>
